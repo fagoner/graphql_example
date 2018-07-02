@@ -1,0 +1,51 @@
+countries:
+  - name: "Argentina"
+    code: "ARG"
+    players:
+      - name: "Messi"
+        number: '10'
+      - name: "Di Maria"
+        number: '11'
+      - name: "Pavón"
+        number: '22'
+      - name: "Banega"
+        number: '7'
+      - name: "Mascherano"
+        number: '14'
+      - name: "Pérez"
+        number: '15'
+      - name: "Tagliafico"
+        number: '3'
+      - name: "Rojo"
+        number: '16'
+      - name: "Otamendi"
+        number: '17'
+      - name: "Mercado"
+        number: '2'
+      - name: "Armani"
+        number: '12'
+  - name: "Brazil"
+    code: "BRA"
+    players:
+      - name: "Neymar Jr"
+        number: '10'
+      - name: "G Jesús"
+        number: '9'
+      - name: "William"
+        number: '19'
+      - name: "Coutinho"
+        number: '11'
+      - name: "Casemiro"
+        number: '5'
+      - name: "Paulinho"
+        number: '15'
+      - name: "Marcelo"
+        number: '12'
+      - name: "Miranda"
+        number: '3'
+      - name: "T Silva"
+        number: '2'
+      - name: "Fagner"
+        number: '22'
+      - name: "Alison"
+        number: '1'
