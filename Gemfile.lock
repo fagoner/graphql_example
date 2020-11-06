@@ -14,7 +14,7 @@ GEM
     minitest (5.11.3)
     multi_json (1.13.1)
     mustermann (1.0.2)
-    rack (2.0.4)
+    rack (2.1.4)
     rack-contrib (2.0.1)
       rack (~> 2.0)
     rack-protection (2.0.3)
@@ -42,10 +42,10 @@ PLATFORMS
 
 DEPENDENCIES
   graphql (= 1.8.2)
-  rack (= 2.0.4)
+  rack (= 2.1.4)
   rack-contrib (= 2.0.1)
   sinatra (= 2.0.3)
   sinatra-contrib (= 2.0.3)
 
 BUNDLED WITH
-   1.16.0
+   1.17.3
